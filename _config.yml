@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 name: Nikola Kalábová, Personal Website
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
