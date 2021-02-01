@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 name: Nikola Kalábová, Personal Website
 markdown: kramdown
+kramdown:
+    math_engine: katex
 permalink: /blog/:year/:month/:day/:title
