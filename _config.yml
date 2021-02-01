@@ -3,4 +3,6 @@ name: Nikola Kalábová, Personal Website
 markdown: kramdown
 kramdown:
     math_engine: katex
+    input: GFM
+    hard_wrap: false
 permalink: /blog/:year/:month/:day/:title
